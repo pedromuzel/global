@@ -7,3 +7,6 @@ Danilo RM556602
 Vitor Ismael 556027
 Lucas Raphael 555543
 Renato 556403
+
+## 🗒️ SAIBA MAIS SOBRE O PROJETO
+https://www.youtube.com/@TideTecnologiaEducativa/featured
