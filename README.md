@@ -18,7 +18,7 @@ Renato Luiz - RM555543
 - Com a estrutura em HTML (Index e as páginas restantes na pasta "pages") com o Front-End em CSS (Main e as páginas restantes na pasta "assets") e com JAVASCRIPT utilizando o conteúdo visto em aula, desenvolvemos uma plataforme onde integraremos a fórmula E com um fantasy.
 ## :hammer: Funcionalidades do projeto
 - `Links`: SISTEMA DE LOGIN E VALIDAÇÃO (LOGIN, CADASTRO, PERFIL E MY SQUAD)
-- - `Links`: SLIDE SHOW (BE PRO)
+- `Links`: SLIDE SHOW (BE PRO)
 - `Video`: ALERTS E MANIPULAÇÃO DE DOM
 - `Contatos`: LINKS INTEGRADOS E FUNCIONAIS
 
